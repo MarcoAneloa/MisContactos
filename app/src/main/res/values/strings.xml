@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+
+    <string name="nombre1">Marco Aneloa</string>
+    <string name="telefono">0958969200</string>
+    <string name="email">maneloa@gmail.com</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+</resources>
